@@ -8,5 +8,9 @@ I am loved Euclid
 ### main.c
 C-Styleのプログラムです。
 
-### pid.mp4
+### リンク集
+[プレゼンシート](https://drive.google.com/file/d/1OPQkBMOj26_-AG2l_BQkpiSBktbiwkfJ/view?usp=drivesdk)
+事前提出済みのプレゼンシートです。
+
+[pid.mp4](https://drive.google.com/~)
 PID制御を用いた方位のプログラムを実行してる動画です。
