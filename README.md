@@ -2,6 +2,8 @@
 I am loved Euclid
 
 ## RCJJ online大会 無双
+ご自由にお使いください。
+
 
 ### main.c
 C-Styleのプログラムです。
