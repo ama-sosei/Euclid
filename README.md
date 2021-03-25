@@ -1,8 +1,10 @@
 # Euclid
-RCJJ online大会 無双
+I am loved Euclid
 
-## main.c
+## RCJJ online大会 無双
+
+### main.c
 C-Styleのプログラムです。
 
-## pid.mp4
+### pid.mp4
 PID制御を用いた方位のプログラムを実行してる動画です。
