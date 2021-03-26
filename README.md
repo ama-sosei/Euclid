@@ -12,7 +12,7 @@ C-Styleのプログラムです。
 [プレゼンシート](https://drive.google.com/file/d/1OPQkBMOj26_-AG2l_BQkpiSBktbiwkfJ/view?usp=drivesdk) 
 事前提出済みのプレゼンシートです。
 
-[YouTube](https://youtube.com/~) 
+[YouTube](https://www.youtube.com/watch?v=dxhl59aQ080) 
 事前提出済みの動画です。
 
 [pid.mp4](https://drive.google.com/~) 
